@@ -1,6 +1,6 @@
 # :dollar: Sistema Bancário com python
 
-Este projeto é um Sistema bancário com Python proposto pelo bootcamp Santander da DIO.
+Este projeto é um Sistema bancário com Python proposto pelo bootcamp Santander da DIO. A medida em que formos avançando no curso a complexidade do desafio e do código vai aumentando.
 
 ## O desafio:
 
