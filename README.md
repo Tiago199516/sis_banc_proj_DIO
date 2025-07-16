@@ -27,3 +27,10 @@ Separar as funções existentes de saque, depósito e extrato em funções. Cria
 
     ###### ----------Dica----------
     :asterisk: Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF informado para cada usuário da lista
+
+### Parte 3
+Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML a seguir:
+![Diagrama de Classes](images/Diagrama_de_Classes1.png)
+
+#### Extra
+- Após concluir a modelagem das classes e a criação dos métodos. Atualize os métodos que tratan as opções do menu para funcionarem com as classes modeladas.
